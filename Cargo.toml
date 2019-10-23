@@ -31,3 +31,5 @@ url = "2.1"
 [dev-dependencies]
 runtime = "0.3.0-alpha.7"
 tokio = "0.1"
+tide = { git = "https://github.com/rustasync/tide.git", branch = "master" }
+tide-querystring = { git = "https://github.com/rustasync/tide.git", branch = "master" }
